@@ -1,4 +1,4 @@
-package _19_09_2024.exercicio;
+package _19_09_2024.listaHeranca;
 
 public class Moto extends Veiculo{
     private boolean temCarenagem;
