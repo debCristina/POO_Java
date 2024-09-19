@@ -1,4 +1,4 @@
-package _19_09_2024.exercicio;
+package _19_09_2024.listaHeranca;
 
 public class Main {
     public static void main(String[] args) {
